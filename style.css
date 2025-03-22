@@ -4,9 +4,6 @@
     font-family: 'Arial', 'sans-serif';
     box-sizing: border-box;
 }
-body{
-    
-}
 span{
     margin-right: 10px;
     color: orangered;
@@ -36,7 +33,7 @@ div h2{
 background-color: #fff;
 padding: 20px;
 border-radius: 10px;
-margin-bottom: 70px;
+margin-bottom: 60px;
 border: 2px solid black;
 }
 
